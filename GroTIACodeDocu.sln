@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroTIACodeDocu", "GroTIACodeDocu\GroTIACodeDocu.csproj", "{A48291D1-B14A-425C-AB90-97A94DDECE15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocuHelper", "DocuHelper\DocuHelper.csproj", "{3F7AC618-4CB2-4D44-B900-DD641CE24F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A48291D1-B14A-425C-AB90-97A94DDECE15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48291D1-B14A-425C-AB90-97A94DDECE15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48291D1-B14A-425C-AB90-97A94DDECE15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48291D1-B14A-425C-AB90-97A94DDECE15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F7AC618-4CB2-4D44-B900-DD641CE24F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7AC618-4CB2-4D44-B900-DD641CE24F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7AC618-4CB2-4D44-B900-DD641CE24F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7AC618-4CB2-4D44-B900-DD641CE24F96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75CB9285-B44C-4745-A62B-2AF0951BEEBF}
+	EndGlobalSection
+EndGlobal

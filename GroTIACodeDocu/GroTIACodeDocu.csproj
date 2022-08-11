@@ -58,9 +58,6 @@
       <Name>DocuHelper</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <None Include="ReadMe.md" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>"$(SolutionDir)Publisher\Siemens.Engineering.AddIn.Publisher.exe" -f "$(SolutionDir)$(ProjectName)\Config.xml" -v -c</PostBuildEvent>
